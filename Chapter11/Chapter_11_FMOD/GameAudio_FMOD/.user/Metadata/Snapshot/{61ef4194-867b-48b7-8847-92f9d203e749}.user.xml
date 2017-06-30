@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="Snapshot" id="{61ef4194-867b-48b7-8847-92f9d203e749}"/>
+    <object class="EventAutomatableProperties" id="{338d95af-c022-4699-a5e6-c9a09a3dc6f0}"/>
+    <object class="MarkerTrack" id="{4a0a5dc2-66da-4b04-835e-837d7d79dc9b}"/>
+    <object class="Timeline" id="{741c26a5-5185-4c70-896c-2b7299943b04}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.023603461841070025</value>
+        </property>
+    </object>
+    <object class="DistanceParameter" id="{2027b2bb-3336-4322-a855-d6b06796b5cf}">
+        <property name="cursorPosition">
+            <value>20</value>
+        </property>
+        <property name="uiLastRulerScaleRatio">
+            <value>0.015735641227380016</value>
+        </property>
+    </object>
+    <object class="SnapshotMasterTrack" id="{3e8c24df-1b50-4a6a-bfa2-c67bf7d32783}"/>
+    <object class="SnapshotProperty" id="{87697b4d-387b-46a4-a05d-f0097b60b381}"/>
+    <object class="SnapshotProperty" id="{18054f5b-ad37-45f7-891a-6ea3a8dbfbd2}"/>
+    <object class="SnapshotProperty" id="{14298af6-d107-446f-99f7-ed3bbbb95fc7}"/>
+    <object class="SnapshotTrack" id="{1c1ff0ed-1679-4103-9591-38d5a92a1e68}">
+        <property name="uiAutomationTracksVisible">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="SnapshotTrack" id="{6c85ad28-147c-41a3-a91b-bc7234694ca5}">
+        <property name="uiAutomationTracksVisible">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="SnapshotTrack" id="{7892bd36-f523-4979-a28a-4f4d1b4c8859}">
+        <property name="uiAutomationTracksVisible">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="AutomationTrack" id="{bc1257d2-0a0b-4da2-8502-43ea6f53d616}"/>
+    <object class="AutomationTrack" id="{9f888dbb-de8d-420c-81b0-35548d6fcb3c}"/>
+    <object class="AutomationTrack" id="{1ebe016a-55da-4163-bc3e-774c0ae6d1df}"/>
+</objects>

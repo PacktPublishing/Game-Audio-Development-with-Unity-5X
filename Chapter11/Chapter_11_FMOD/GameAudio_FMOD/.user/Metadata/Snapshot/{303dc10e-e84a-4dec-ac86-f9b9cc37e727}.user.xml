@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="Snapshot" id="{303dc10e-e84a-4dec-ac86-f9b9cc37e727}"/>
+    <object class="EventAutomatableProperties" id="{a0262b0d-f382-461a-8035-d4cf14545f56}"/>
+    <object class="MarkerTrack" id="{6f06aaa5-b4f0-4e72-9a6b-586d13a1c77c}"/>
+    <object class="Timeline" id="{f68ec10e-7c19-4735-8292-8c6bf48bc10d}"/>
+    <object class="SnapshotMasterTrack" id="{2bef2725-1f13-45a4-8d87-5bdb99186d28}"/>
+    <object class="SnapshotProperty" id="{3b7bc2ad-43a2-4cd7-b067-3460e26b8deb}"/>
+    <object class="SnapshotTrack" id="{4adc457b-9d32-4303-85a1-a00aff308f11}"/>
+</objects>

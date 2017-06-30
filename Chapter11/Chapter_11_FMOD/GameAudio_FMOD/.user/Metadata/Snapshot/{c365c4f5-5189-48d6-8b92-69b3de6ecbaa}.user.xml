@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="Snapshot" id="{c365c4f5-5189-48d6-8b92-69b3de6ecbaa}">
+        <relationship name="uiLastParameterSelection">
+            <destination>{6f91785d-bff4-4262-bd1f-90a33b028082}</destination>
+        </relationship>
+    </object>
+    <object class="EventAutomatableProperties" id="{ef5aecf0-734c-47ea-9e17-410688238b47}"/>
+    <object class="MarkerTrack" id="{649948aa-2e4e-4121-9780-d27e54f73e14}"/>
+    <object class="Timeline" id="{6f91785d-bff4-4262-bd1f-90a33b028082}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.023603461841070025</value>
+        </property>
+    </object>
+    <object class="DistanceParameter" id="{8fa42ea2-27a6-4c30-a157-749ffbc9c6b8}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.028011204481792718</value>
+        </property>
+    </object>
+    <object class="SnapshotMasterTrack" id="{b766d66c-1255-4a86-9b62-1e5a1f2f1d39}">
+        <property name="uiAutomationTracksVisible">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="SnapshotProperty" id="{e556f0e3-fd88-4032-b75b-bc21ca71b653}"/>
+    <object class="SnapshotProperty" id="{ba24dbe9-7458-486e-94ba-df2e5d7e82e2}"/>
+    <object class="SnapshotProperty" id="{2d069a90-7126-48a9-987e-bfa94f7186d2}"/>
+    <object class="SnapshotTrack" id="{d813c57d-c922-4d44-8f34-1c9e0b89ece6}"/>
+    <object class="SnapshotTrack" id="{eeed1019-b9ff-424b-a3cd-a84e88da2ae4}"/>
+    <object class="SnapshotTrack" id="{4632540e-e123-40d2-a47c-a82d45a98b84}"/>
+    <object class="AutomationTrack" id="{7540b6a2-1471-4c23-90df-ea8237e584c4}"/>
+</objects>

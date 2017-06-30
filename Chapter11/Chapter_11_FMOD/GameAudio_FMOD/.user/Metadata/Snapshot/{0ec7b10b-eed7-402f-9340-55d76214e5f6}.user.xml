@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="Snapshot" id="{0ec7b10b-eed7-402f-9340-55d76214e5f6}"/>
+    <object class="EventAutomatableProperties" id="{bbb568f4-5ccd-4039-b660-7b14731e9721}"/>
+    <object class="MarkerTrack" id="{022e3fdc-7fbb-4ff1-ae26-08c6cc652cd6}"/>
+    <object class="Timeline" id="{e49aa2b0-4587-4206-be64-55c663f3f77a}">
+        <property name="cursorPosition">
+            <value>1.0504201680672269</value>
+        </property>
+        <property name="uiLastRulerScaleRatio">
+            <value>0.042016806722689079</value>
+        </property>
+    </object>
+    <object class="DistanceParameter" id="{1574eb6f-70ce-43d7-ac23-c906243260a0}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.028011204481792718</value>
+        </property>
+    </object>
+    <object class="SnapshotMasterTrack" id="{97e3c0d1-ce6b-4153-b05b-04d86a9d4540}"/>
+    <object class="SnapshotProperty" id="{00e10800-97d1-4cca-87b4-e6e534aadc19}"/>
+    <object class="SnapshotProperty" id="{090a0aa5-0537-4fea-8e6b-1defa02177b8}"/>
+    <object class="SnapshotProperty" id="{a95f469a-9beb-4631-8900-79bc0de72799}"/>
+    <object class="SnapshotTrack" id="{6c2b915a-0eb4-43f1-ab5d-6e7c3346403e}">
+        <property name="uiAutomationTracksVisible">
+            <value>true</value>
+        </property>
+        <property name="uiTrackHeight">
+            <value>65</value>
+        </property>
+    </object>
+    <object class="SnapshotTrack" id="{1ce1c061-dbad-4c09-a0aa-3c977aeb4500}">
+        <property name="uiTrackHeight">
+            <value>65</value>
+        </property>
+    </object>
+    <object class="SnapshotTrack" id="{95b22877-12e7-4016-8c23-f6fc88d2886e}">
+        <property name="uiTrackHeight">
+            <value>65</value>
+        </property>
+    </object>
+    <object class="AutomationTrack" id="{a52e5c62-8c98-41a4-83b3-bc1caad06e8b}"/>
+</objects>
