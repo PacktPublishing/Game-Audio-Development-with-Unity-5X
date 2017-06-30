@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="Snapshot" id="{7de15e6f-8f46-421e-baf3-acbaeed8dccb}"/>
+    <object class="EventAutomatableProperties" id="{95823599-8006-4d74-9505-6d986e5196db}"/>
+    <object class="MarkerTrack" id="{29415c8f-1848-4f16-b394-6af7ca74a04c}"/>
+    <object class="Timeline" id="{b66dd88a-7da7-45ee-b617-4809eb9ac68c}"/>
+    <object class="SnapshotMasterTrack" id="{452b596a-413f-48f9-832b-db84a91342cf}"/>
+    <object class="SnapshotProperty" id="{0db889d7-d7fd-4bbe-9cc0-09b403c80ba6}"/>
+    <object class="SnapshotTrack" id="{15280e5d-33f4-452b-bcd4-277af2a26ec4}">
+        <property name="uiAutomationTracksVisible">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="AutomationTrack" id="{42ae0e64-eb22-4094-82bf-3e026f5bd226}"/>
+</objects>
