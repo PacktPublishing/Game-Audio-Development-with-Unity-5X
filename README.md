@@ -1,27 +1,27 @@
 # Python GUI Programming Cookbook - Second Edition
 This is the code repository for [Game Audio Development with Unity 5.X](https://www.packtpub.com/game-development/game-audio-development-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781787286450), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-This book will guide you from the very basics of creating a fully functional GUI in Python with only a few lines of code. Each and every recipe adds more widgets to the GUIs we are creating. While the cookbook recipes all stand on their own, there is a common theme running through all of them. As our GUIs keep expanding, using more and more widgets, we start to talk to networks, databases, and graphical libraries that greatly enhance our GUI’s functionality. This book is what you need to expand your knowledge on the subject of GUIs, and make sure you’re not missing out in the long run.
+Game Audio is one of the key components in making a game successful and it is quite popular in the gaming industry. So if you are a game developer with an eye on capturing the gamer market then this book is the right solution for you.
 ### Instructions and Navigations
 All of the codes are organized as per the chapters, each folder has the codes related to that chapter or appendix.                   
-For example: Python-GUI-Programming-Cookbook-Second-Edition/Chapter01/Ch01_Code/First_GUI.py
+For example: Game-Audio-Development-with-Unity-5X/Chapter02/Chapter_2_Scripts/Keyboard.cs
 
 The code will look like the following:
 ```
-import tkinter as tk
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
-# Create instance
-win = tk.Tk()   
-
-# Add a title       
-win.title("Python GUI")
+public class Keyboard : MonoBehaviour {
+	private AudioSource audioSource;
+	public int transpose = 0;
 ```
 
 Following is the software-hardware list:
 
 | Chapter  | Software required | Download links to the software | Hardware required |
 | ------------- | ------------- | ------------- | ------------- |
-| All | Unity | https://www.python.org/downloads/release/python-360/ | Your PC (Min. of $gb RAM) |
+| All | Unity | https://unity3d.com/unity | Your PC (Min. of 4gb RAM) |
 
 ## Related Products
  
