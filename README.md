@@ -1,4 +1,4 @@
-# Python GUI Programming Cookbook - Second Edition
+# Game Audio Development with Unity 5X
 This is the code repository for [Game Audio Development with Unity 5.X](https://www.packtpub.com/game-development/game-audio-development-unity-5x?utm_source=github&utm_medium=repository&utm_campaign=9781787286450), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Game Audio is one of the key components in making a game successful and it is quite popular in the gaming industry. So if you are a game developer with an eye on capturing the gamer market then this book is the right solution for you.
